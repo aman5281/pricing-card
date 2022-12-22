@@ -1,2 +1,2 @@
 # pricing-card
-It is layout of pricing using flex.
+It is layout of pricing template using flex.
